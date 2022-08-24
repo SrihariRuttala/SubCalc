@@ -41,8 +41,6 @@ Options:
                         Minimum number of hosts for each subnet
 ```
 
-...
-
 ## Screenshots
 
 <table>
